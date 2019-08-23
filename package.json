@@ -1,0 +1,27 @@
+{
+  "name": "dbshanks.github.io",
+  "version": "1.0.0",
+  "description": "The personal web site of Derek Shanks",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbshanks/dbshanks.github.io.git"
+  },
+  "keywords": [
+    "Static",
+    "NodeJS",
+    "JS"
+  ],
+  "author": "Derek B. Shanks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbshanks/dbshanks.github.io/issues"
+  },
+  "homepage": "https://github.com/dbshanks/dbshanks.github.io#readme",
+  "dependencies": {
+    "jump.js": "^1.0.2"
+  }
+}
